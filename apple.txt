@@ -1,3 +1,3 @@
 more conflict changed
 more  changed
-hello git
+hello everyone
