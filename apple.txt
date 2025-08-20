@@ -1,4 +1,4 @@
 more conflict changed
 more  changed
 hello everyone
-hello world cse
+hello cse
